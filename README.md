@@ -1,3 +1,0 @@
-# Matlab
-
-Some Matlab Exercises.
